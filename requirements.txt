@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sse_starlette
+pathlib
+aiofiles
+python-multipart
